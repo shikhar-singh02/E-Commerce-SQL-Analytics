@@ -49,6 +49,34 @@ E-Commerce-SQL-Analytics/
 -   Advanced SQL analysis
 -   Business investigation
 
+## Project Screenshots
+
+The following screenshots show selected SQL analysis results:
+
+1. **Executive KPIs** – Overall business performance metrics.
+   - `executive_kpis.png`
+
+2. **Monthly Sales & Profit Trend**
+   - `Monthly_Sales_Profit_Trend.png`
+
+3. **Category Performance**
+   - `Category_Performance.png`
+
+4. **Customer Sales & Cumulative Contribution**
+   - `Customer_Sales_and_Cumulative_Contribution.png`
+
+5. **High Value Inactive Customers**
+   - `High_Value_Inactive_Customers.png`
+
+6. **Customer Retention by Cohort**
+   - `Month_1_3_6_12_Retention_by_Cohort.png`
+
+7. **One-Time vs Repeat Customers**
+   - `One_Time_VS_Repeat_Customers.png`
+
+8. **Regional Performance**
+   - `Region_Wise_Performance.png`
+ 
 ## Database Setup
 
 1.  Open MySQL Workbench and connect to your MySQL server.
