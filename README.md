@@ -54,27 +54,35 @@ E-Commerce-SQL-Analytics/
 The following screenshots show selected SQL analysis results:
 
 1. **Executive KPIs** – Overall business performance metrics.
+   - `executive_kpis.png`
    - ![Executive KPIs](screenshots/executive_kpis.png)
 
-2. **Monthly Sales & Profit Trend**
+3. **Monthly Sales & Profit Trend**
+   - `Monthly_Sales_Profit_Trend.png`
    ![Monthly Sales Profit Trend](screenshots/Monthly_Sales_Profit_Trend.png)
 
-3. **Category Performance**
+5. **Category Performance**
+   - `Category_Performance.png`
   ![Category Performance](screenshots/Category_Performance.png)
 
-4. **Customer Sales & Cumulative Contribution**
+7. **Customer Sales & Cumulative Contribution**
+   - `Customer_Sales_and_Cumulative_Contribution.png`  
    ![Customer Sales and Cumulative Contribution](screenshots/Customer_Sales_and_Cumulative_Contribution.png)
 
-5. **High Value Inactive Customers**
+9. **High Value Inactive Customers**
+   - `High_Value_Inactive_Customers.png`
    ![High Value Inactive Customers](screenshots/High_Value_Inactive_Customers.png)
 
-6. **Customer Retention by Cohort**
+11. **Customer Retention by Cohort**
+    - `Month_1_3_6_12_Retention_by_Cohort.png`
    ![Customer Retention by Cohort](screenshots/Month_1_3_6_12_Retention_by_Cohort.png)
 
-7. **One-Time vs Repeat Customers**
+13. **One-Time vs Repeat Customers**
+   - `One_Time_VS_Repeat_Customers.png`
   ![One Time vs Repeat Customers](screenshots/One_Time_VS_Repeat_Customers.png)
 
-9. **Regional Performance**
+15. **Regional Performance**
+   - `Region_Wise_Performance.png`
    ![Region Wise Performance](screenshots/Region_Wise_Performance.png)
  
 ## Database Setup
