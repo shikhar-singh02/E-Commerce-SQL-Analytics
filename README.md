@@ -54,7 +54,7 @@ E-Commerce-SQL-Analytics/
 The following screenshots show selected SQL analysis results:
 
 1. **Executive KPIs** – Overall business performance metrics.
-   - `executive_kpis.png`
+   - ![Executive KPIs](screenshots/executive_kpis.png)
 
 2. **Monthly Sales & Profit Trend**
    - `Monthly_Sales_Profit_Trend.png`
